@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "Suhas",
+    "Company": "i-exceed",
+    "id": 1,
+    "age": 23,
+    "Salary": 50000,
+    "Currency": "INR",
+    "Country": "India",
+    "Salary in EUR": "486.91",
+    "Time": "2025-09-05 15:47:55"
+  },
+  {
+    "Name": "Irene",
+    "Company": "Merck",
+    "id": 2,
+    "age": 22,
+    "Salary": 60000,
+    "Currency": "USD",
+    "Country": "USA",
+    "Salary in EUR": "51493.31",
+    "Time": "2025-09-05 19:17:55"
+  },
+  {
+    "Name": "Jayanth",
+    "Company": "Happy Minds",
+    "id": 3,
+    "age": 22,
+    "Salary": 55000,
+    "Currency": "EUR",
+    "Country": "France",
+    "Salary in EUR": "55000.00",
+    "Time": "2025-09-05 12:17:55"
+  },
+  {
+    "Name": "Hemitha",
+    "Company": "Gilbargo",
+    "id": 4,
+    "age": 22,
+    "Salary": 45000,
+    "Currency": "GBP",
+    "Country": "UK",
+    "Salary in EUR": "51903.11",
+    "Time": "2025-09-05 10:17:55"
+  },
+  {
+    "Name": "Jyothsna",
+    "Company": "Quinbay",
+    "id": 5,
+    "age": 22,
+    "Salary": 70000,
+    "Currency": "JPY",
+    "Country": "Japan",
+    "Salary in EUR": "404.79",
+    "Time": "2025-09-05 19:17:55"
+  },
+  {
+    "Name": "Kanishk ",
+    "Company": "GetMyParking",
+    "id": 6,
+    "age": 22,
+    "Salary": 48000,
+    "Currency": "AUD",
+    "Country": "Australia",
+    "Salary in EUR": "26856.15",
+    "Time": "2025-09-05 20:47:55"
+  }
+]
